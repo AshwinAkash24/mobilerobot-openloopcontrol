@@ -96,9 +96,9 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-![mobile(1)](https://github.com/AshwinAkash24/mobilerobot-openloopcontrol/assets/144979248/d734eefc-9714-4211-b8be-a2f4d69956b5)
+![111](https://github.com/AshwinAkash24/mobilerobot-openloopcontrol/assets/144979248/0b766349-e503-4098-9712-9c67480bd8e6)
 
-![mobile](https://github.com/AshwinAkash24/mobilerobot-openloopcontrol/assets/144979248/6c77dfd4-4f9e-4834-894e-4fbfa920cb63)
+![222](https://github.com/AshwinAkash24/mobilerobot-openloopcontrol/assets/144979248/1818b5c5-4108-404f-bf33-6b6f57e1fbf7)
 
 ## MobileRobot Movement Video:
 
